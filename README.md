@@ -16,7 +16,7 @@ Tolina es realizado en medio de una crisis de salud mundial generada por la Pand
 El objetivo de este repositorio es permitir al equipo trabajar desde sus casas, mantener al día los cambios de versión, abrir el trabajo a la comunidad y de esta forma gestionar más eficientemente el tiempo de desarrollo y ensayos de los distintos subsistemas.
 
 ## Requerimientos
-Para utilizar estos códigos es necesario tener un PCDuino4 nano, el kit de desarrollo ofrecido por Elemon SAMR34 y demas componentes detallados en el [BOM](http://google.com).
+Para utilizar estos códigos es necesario tener un PCDuino4 nano, el kit de desarrollo ofrecido por Elemon SAMR34 y demas componentes detallados en el [BOM] _pendiente_. Los requermientos de sistema se detallan [aquí](https://github.com/huguitovi/Tolina/blob/master/documentos/Requerimientos.md).
 
 ![image info](./PCDuinoyPenguino.jpg)
 
