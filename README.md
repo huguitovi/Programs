@@ -17,8 +17,7 @@ El objetivo de este repositorio es permitir al equipo trabajar desde sus casas, 
 ## Requerimientos
 Para utilizar estos códigos es necesario tener un PCDuino4 nano, el kit de desarrollo ofrecido por Elemon SAMR34 y demas componentes detallados en el [BOM](http://google.com).
 
-![image info](./PCDuino4nano.jpg)
-![image info](./penguino.jpg)
+![image info](./PCDuinoyPenguino.jpg)
 
 ## Dedicación y duración
 Este proyecto dura un cuatrimestre y es de dedicación completa por parte del equipo de estudiantes que en este tiempo deben tener listo y operativo el dirigible.
