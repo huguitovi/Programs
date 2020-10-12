@@ -1,8 +1,7 @@
 ## Requerimientos del Modelo de Ingeniería
 
-Índice
+Nomenclatura de Requerimientos:
 
-##    Nomenclatura de Requerimientos
 Los requerimientos de este documento siguen una nomenclatura del tipo:
 X-XXX-NNN
 Donde el primer carácter es el prefijo que denota el tipo de requerimiento; los tres caracteres siguientes son el código de la categoría a la que pertenece el requerimiento (por ejemplo, el subsistema al que aplica y los últimos tres caracteres son el código numérico del requerimiento.
