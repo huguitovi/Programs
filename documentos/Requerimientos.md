@@ -1,8 +1,20 @@
 ## Requerimientos del Modelo de Ingeniería
 
-Nomenclatura de Requerimientos:
+1. Nomenclatura de Requerimientos
+2. Requerimientos de Misión (MIS)
+3. Requerimientos de Sistema (SIS) - Preliminar
+4. Requerimientos de Carga Útil (PAY) - Preliminar
+5. Requerimientos de Estructura (STR) - Preliminar
+6. Requerimientos de Comunicaciones (COM) - Preliminar
+7. Requerimientos de Comando y manejo de datos (C&DH) - Preliminar
+8. Requerimientos de Potencia (POT) - Preliminar
+9. Requerimientos de Propulsión (PRO) - Preliminar
+10. Requerimientos de Guiado, Navegación y Control (GN&C) - Preliminar
+11. Requerimientos de Estación Terrena (GST) - Preliminar
 
-Los requerimientos de este documento siguen una nomenclatura del tipo:
+## 1. Nomenclatura de Requerimientos:
+
+Los requerimientos de este documento siguen una nomenclatura según normativa del estándar ESA aeroespacial del tipo:
 X-XXX-NNN
 Donde el primer carácter es el prefijo que denota el tipo de requerimiento; los tres caracteres siguientes son el código de la categoría a la que pertenece el requerimiento (por ejemplo, el subsistema al que aplica y los últimos tres caracteres son el código numérico del requerimiento.
 Los tipos de requerimientos son:
@@ -11,11 +23,11 @@ Funcionales, denotados por una letra F.
 De performance, denotados por una letra P.
 Restrictivos, denotados por una letra R.
 
-##    Requerimientos de Misión (MIS)
+## 2. Requerimientos de Misión (MIS)
 **F-MIS-010**	Se deberá concebir, diseñar, implementar y operar, el sistema completo, de un modelo de ingeniería, capaz de ensayar en tierra, capacidades específicas del dirigible propuesto en el proyecto Tolina.
 
 
-##    Requerimientos de Sistema (SIS) - Preliminar
+## 3. Requerimientos de Sistema (SIS) - Preliminar
 **P-SIS-010**	El dirigible Tolina deberá tener un radio de operación de al menos 30 m desde la GST.
 
 **F-SIS-011**	El dirigible Tolina deberá brindar tres grados de libertad de traslación en el espacio de forma controlada.
@@ -41,7 +53,7 @@ Restrictivos, denotados por una letra R.
 **P-SIS-080**	El subsistema de potencia deberá proveer energía al Sistema al menos durante 30 minutos.
 
 
-##    Requerimientos de Carga Útil (PAY) - Preliminar
+## 4. Requerimientos de Carga Útil (PAY) - Preliminar
 
 **D-PAY-010**	El dirigible deberá contar con una cámara para capturar imágenes.
 
@@ -56,7 +68,7 @@ Restrictivos, denotados por una letra R.
 **R-PAY-030**	La carga útil de la Tolina deberá tener un consumo operativo menor a TBD mAh (crecimiento: 40%).
 
 
-##    Requerimientos de Estructura (STR) - Preliminar
+## 5. Requerimientos de Estructura (STR) - Preliminar
 
 **D-STR-010**	El dirigible deberá consistir de dos módulos: un módulo de flotación y un módulo instrumental.
 
@@ -79,7 +91,7 @@ Restrictivos, denotados por una letra R.
 **D-STR-040**	El módulo instrumental deberá estar adherido a la parte inferior del módulo de flotación a lo largo de toda la misión.
 
 
-##    Requerimientos de Comunicaciones (COM) - Preliminar
+## 6. Requerimientos de Comunicaciones (COM) - Preliminar
 
 **F-COM-010**	El subsistema de comunicaciones deberá proveer comunicaciones en ambos sentidos para el subsistema GST.
 
@@ -108,7 +120,7 @@ Restrictivos, denotados por una letra R.
 **P-COM-050**	El subsistema de comunicaciones deberá operar con una latencia menor a TBD ms.
 
 
-##    Requerimientos de Comando y manejo de datos (C&DH) - Preliminar
+## 7. Requerimientos de Comando y manejo de datos (C&DH) - Preliminar
 
 **F-CDH-010**	El subsistema deberá soportar un sistema operativo en tiempo real.
 
@@ -121,7 +133,7 @@ Restrictivos, denotados por una letra R.
 **F-CDH-050**	El subsistema deberá generar flujo de telemetría.
 
 
-##    Requerimientos de Potencia (POT) - Preliminar
+## 8. Requerimientos de Potencia (POT) - Preliminar
 
 **R-POT-010**	El dirigible deberá tener un consumo operativo total menor a 10000 mAh.
 
@@ -150,7 +162,7 @@ Restrictivos, denotados por una letra R.
 **R-POT-091**	Cada motor de Tolina deberá tener un consumo operativo menor a 1500 mAh.
 
  
-##    Requerimientos de Propulsión (PRO) - Preliminar
+## 9. Requerimientos de Propulsión (PRO) - Preliminar
 
 **P-PRO-010**	Cada motor de Tolina deberá proporcionar un empuje de al menos 20 gf (TBC).
 
@@ -165,14 +177,14 @@ Restrictivos, denotados por una letra R.
 **F-PRO-050**	Cada motor deberá poder girar en ambos sentidos.
 
 
-##    Requerimientos de Guiado, Navegación y Control (GN&C) - Preliminar
+## 10. Requerimientos de Guiado, Navegación y Control (GN&C) - Preliminar
 
 **F-GNC-010**	El dirigible deberá sensar la magnitud y componentes de aceleración lineal con un error admisible de TBD m/s2 a lo largo de toda la misión.
 
 **F-GNC-020**	El dirigible deberá medir su distancia al suelo a lo largo de toda la misión.
 
 
-##    Requerimientos de Estación Terrena (GST) - Preliminar
+## 11. Requerimientos de Estación Terrena (GST) - Preliminar
 
 **P-GST-010**	La Estación Terrena deberá recibir señal de video con una latencia de hasta TBD ms.
 
