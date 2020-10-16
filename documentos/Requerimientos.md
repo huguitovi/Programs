@@ -15,13 +15,21 @@
 ## 1. Nomenclatura de Requerimientos:
 
 Los requerimientos de este documento siguen una nomenclatura según normativa del estándar ESA aeroespacial del tipo:
+
 X-XXX-NNN
+
 Donde el primer carácter es el prefijo que denota el tipo de requerimiento; los tres caracteres siguientes son el código de la categoría a la que pertenece el requerimiento (por ejemplo, el subsistema al que aplica y los últimos tres caracteres son el código numérico del requerimiento.
+
 Los tipos de requerimientos son:
+
 De diseño, denotados por una letra D.
+
 Funcionales, denotados por una letra F.
+
 De performance, denotados por una letra P.
+
 Restrictivos, denotados por una letra R.
+
 
 ## 2. Requerimientos de Misión (MIS)
 **F-MIS-010**	Se deberá concebir, diseñar, implementar y operar, el sistema completo, de un modelo de ingeniería, capaz de ensayar en tierra, capacidades específicas del dirigible propuesto en el proyecto Tolina.
