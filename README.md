@@ -26,3 +26,5 @@ Este proyecto dura un cuatrimestre y es de dedicación completa por parte del eq
 ## Docentes
 El curso lo dictan dos profesores de la ECyT-UNSAM que son también
 compañeros de carrera: [Erwin Beccari](https://testabrava.myportfolio.com/) es Diseñador Industrial y el Estudiante avanzado; [Tomas Burroni](https://ar.linkedin.com/in/burroni-ti) de Ing. Espacial.
+
+Test
