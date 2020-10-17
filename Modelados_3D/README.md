@@ -10,4 +10,4 @@ Modelado: [OnShape](https://cad.onshape.com/documents/57041b9190bb21ceda39ff75/w
 Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
 Modelado: [OnShape](https://cad.onshape.com/documents/5c766772f1cf92beb5b2a2ce/w/0669a1c371af4958e5f9264b/e/346e4c6ac8418c2cd695989a)
 
-![image info]("./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
