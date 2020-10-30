@@ -19,16 +19,13 @@ Modelado: [OnShape](https://cad.onshape.com/documents/461af691bdc8e8293b6acc81/w
 
 ![image info](./Antena_OnShape.png)
 
+# Modelado ShielDuino-T (Modulo controlador de 8 motores nativo de Tolina)
 
+Fabricante: [Tolina](https://github.com/huguitovi/Tolina)
+Modelado: [OnShape](https://cad.onshape.com/documents/e3b788214f8b06f891d40f1e/w/c74bf7b978118f32a32821e2/e/986af21a91f393d954ba1fb5)
 
-
-
-<!---just---## Modelado EESAM34R
-
-Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
-Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
-
-
+![image info](./Shielduino-T_Onshape.png)
+<!---just---#
 ## Modelado EESAM34R
 
 Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
