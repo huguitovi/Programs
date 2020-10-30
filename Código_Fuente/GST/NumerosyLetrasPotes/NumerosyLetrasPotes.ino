@@ -2,6 +2,11 @@
 #include<math.h> // incluyo esta libreria de C estandar para usar la funcion ROUND!!
 
 
+
+#define MaximoX 1023.0 //aca cambias al calor maximo que muestre en pantalla agregar el ".0" es necesario por el tipo de variable Float
+#define MaximoY 1023.0 //aca lo mismo
+
+
 //Pin de entrada de la señal del potenciómetro
 int potPin1 = 1;
 int potPin3 = 3;
@@ -21,14 +26,14 @@ void loop() {
   val3 = analogRead(potPin3); // leo la variable del pote 2
   // convierto con regla de tres simple el valor de 0 a 1024 en A hasta Z 
   //(para esto hay que saber que en ACSII esto es desde 65 hasat 90)
-  f=(25/1023) * val1; //auxiliar de cuenta para convertir a caracter
+  f=(25/MaximoX) * val1; //auxiliar de cuenta para convertir a caracter
   thisByte=round(f) + 65; // convertir a un valor int en relacion con el caracter
   Serial.print("X:"); // de aca en mas ves que uso print sin el ln (line) y lo dejo para el ultimo, fijate lo que pasa en la consola!
   Serial.print(val1);
   Serial.print(", Letra: ");
   Serial.write(thisByte);
   Serial.print(", Y:");
-  f=(25/1023) * val3;
+  f=(25/MaximoY) * val3;
   thisByte=round(f) + 65;
   Serial.print(val3);
   Serial.print(", Letra: ");
