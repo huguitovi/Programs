@@ -11,3 +11,51 @@ Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
 Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
 
 ![image info](./EESAMR34_OSh.jpg)
+
+## Modelado Antena Antena SGSM008-SMA/M-R/A-5
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/461af691bdc8e8293b6acc81/w/5bf0a661077147eb908c0616/e/5cb2624135b9eea222923b98)
+
+![image info](./Antena_OnShape.png)
+
+
+
+
+
+<!---just---## Modelado EESAM34R
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+
+
+## Modelado EESAM34R
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+
+
+## Modelado EESAM34R
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+
+## Modelado EESAM34R
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+
+## Modelado EESAM34R
+
+Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+
+
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)
+![image info](./EESAMR34_OSh.jpg)>
