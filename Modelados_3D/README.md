@@ -16,7 +16,7 @@ Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w
 
 ![image info](./EESAMR34_OSh.jpg)
 
-## Antena Antena SGSM008-SMA/M-R/A-5
+## Antena SGSM008-SMA/M-R/A-5
 
 Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
 Modelado: [OnShape](https://cad.onshape.com/documents/461af691bdc8e8293b6acc81/w/5bf0a661077147eb908c0616/e/5cb2624135b9eea222923b98)
@@ -36,6 +36,27 @@ Fabricante: [Logitech](https://support.logi.com/hc/en-us/articles/360023307014-L
 Modelado: [OnShape](https://cad.onshape.com/documents/c44ed40a48549f56abfa6e95/w/bb11458fc9d157a45261392b/e/d3aeba1b3881ed7b99e6e940)
 
 ![image info](./Webcam_onshape.png)
+
+## SRF04
+
+Fabricante: [Elemon]()
+Modelado: [OnShape]()
+
+![image info](./SRF04_OnShape.png)
+
+## MPU9250 
+
+Fabricante: [Elemon]()
+Modelado: [OnShape]()
+
+![image info](./MPU9250_OnShape.png)
+
+## JSN-SR04T
+
+Fabricante: [JSN](https://www.elemon.com.ar/Cotizar.aspx)
+Modelado: [OnShape](https://cad.onshape.com/documents/5689bac8cee0096f19e13d54/w/39e027f5c27cfc006658e57e/e/44e5082090eb61c592169ccd)
+
+![image info](./JSN-SR04T_OnShape.png)>
 <!---just---#
 ## EESAM34R
 
@@ -58,6 +79,6 @@ Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w
 ![image info](./EESAMR34_OSh.jpg)
 ![image info](./EESAMR34_OSh.jpg)
 ![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)>
+![image info](./SRF04_OnShape.png)
+![image info](./MPU9250_OnShape.png)
+![image info](./JSN-SR04T_OnShape.png)>
