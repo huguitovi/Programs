@@ -1,6 +1,6 @@
 # Modelados 3D
 
-	Tanto como para la determinación del centro de masa, como para facilitar aspectos relacionados a la integración realizada a distancia y en forma descentralizada, se realizaron los siguientes modelados 3D:
+Tanto como para la determinación del centro de masa, como para facilitar aspectos relacionados a la integración realizada a distancia y en forma descentralizada, se realizaron los siguientes modelados 3D:
 
 ## PCDuino4 nano
 
