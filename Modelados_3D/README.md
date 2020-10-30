@@ -25,13 +25,14 @@ Fabricante: [Tolina](https://github.com/huguitovi/Tolina)
 Modelado: [OnShape](https://cad.onshape.com/documents/e3b788214f8b06f891d40f1e/w/c74bf7b978118f32a32821e2/e/986af21a91f393d954ba1fb5)
 
 ![image info](./Shielduino-T_Onshape.png)
+
+## Modelado Logitech C200
+
+Fabricante: [Logitech](https://support.logi.com/hc/en-us/articles/360023307014-Logitech-Webcam-C200-Technical-Specifications)
+Modelado: [OnShape](https://cad.onshape.com/documents/c44ed40a48549f56abfa6e95/w/bb11458fc9d157a45261392b/e/d3aeba1b3881ed7b99e6e940)
+
+![image info](./Webcam_onshape.png)
 <!---just---#
-## Modelado EESAM34R
-
-Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
-Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
-
-
 ## Modelado EESAM34R
 
 Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
