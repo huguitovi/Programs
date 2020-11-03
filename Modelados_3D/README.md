@@ -39,15 +39,15 @@ Modelado: [OnShape](https://cad.onshape.com/documents/c44ed40a48549f56abfa6e95/w
 
 ## SRF04
 
-Fabricante: [Elemon]()
+Fabricante: [China]()
 Modelado: [OnShape]()
 
 ![image info](./SRF04_OnShape.png)
 
-## MPU9250 
+## MPU9250 BMP260
 
-Fabricante: [Elemon]()
-Modelado: [OnShape]()
+Fabricante: [Bosch]()
+Modelado: [OnShape](https://cad.onshape.com/documents/137634499555791615642d57/w/9201c79dbb14d58388e90772/e/1ceaf7b055e3bd4cd616bf7e)
 
 ![image info](./MPU9250_OnShape.png)
 
@@ -56,13 +56,15 @@ Modelado: [OnShape]()
 Fabricante: [JSN](https://www.elemon.com.ar/Cotizar.aspx)
 Modelado: [OnShape](https://cad.onshape.com/documents/5689bac8cee0096f19e13d54/w/39e027f5c27cfc006658e57e/e/44e5082090eb61c592169ccd)
 
-![image info](./JSN-SR04T_OnShape.png)>
-<!---just---#
+![image info](./JSN-SR04T_OnShape.png)
+
 ## EESAM34R
 
-Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
-Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
+Fabricante: [I-O Data]()
+Modelado: [OnShape](https://cad.onshape.com/documents/2a58d5fc7cfdaa5131b7bced/w/1790b3b75a4a6e0e9be4c743/e/e5ab12a85833402ce6b296c1)
 
+![image info](./IOData_Onshape.png)
+<!---just---#
 ## EESAM34R
 
 Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
