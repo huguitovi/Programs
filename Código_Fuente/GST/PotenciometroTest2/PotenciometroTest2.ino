@@ -15,7 +15,8 @@ void loop(){
   val1 = analogRead(potPin1);
   val3 = analogRead(potPin3);
 
-  Serial.println(val1);
+  Serial.print(val1);
+  Serial.print(",");
   Serial.println(val3);
   delay(20);
 
