@@ -1,6 +1,6 @@
 const int z = 3; // pin digital conecta al pulsador
-const int x = 0; // pin analogico conecta al eje x
-const int y = 1; // pin analogico conecta al eje y
+const int x = A0; // pin analogico conecta al eje x
+const int y = A1; // pin analogico conecta al eje y
 void setup() {
   pinMode(z, INPUT); 
   digitalWrite(z, HIGH); // A la salida lo que veremos sera el pulsador pulsador en estado 1
