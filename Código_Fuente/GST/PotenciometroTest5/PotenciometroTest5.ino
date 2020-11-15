@@ -1,11 +1,12 @@
 #include <string.h>
-
+#define rep 1000
+unsigned long int valorx=0, valory=0, valorz=0, valorw=0, k=0;
 const int i = 3; // pin digital conecta al pulsador
-const int x = A0; // pin analogico conecta al eje x
-const int y = A1; // pin analogico conecta al eje y
+const int x = A1; // pin analogico conecta al eje x
+const int y = A0; // pin analogico conecta al eje y
 const int j = 4; // pin digital conecta al pulsador
-const int z = A2; // pin analogico conecta al eje x
-const int w = A3; // pin analogico conecta al eje y
+const int z = A3; // pin analogico conecta al eje x
+const int w = A2; // pin analogico conecta al eje y
   unsigned char trama[13];
   
 void setup() {
@@ -19,11 +20,40 @@ void setup() {
 }
 
 void loop() {
-  valorX = analogRead(pin_tuvieja);
-    if(valorX > 999) 
-    valorX = 999;
-  sprintf (trama,"%03d%03d%03d%03d",valorX,digitalRead(z),digitalRead(x),digitalRead(z));
-  Serial.println (trama);
+  while(k<rep){
+    
+  valorx += analogRead(A1);
+    
+  valory += analogRead(A0);
+    
+  valorz += analogRead(A3);
+    
+  valorw += analogRead(A2);
+    
+  k++;
+  }
+  valorx=valorx/rep;
+  valory=valory/rep;
+  valorz=valorz/rep;
+  valorw=valorw/rep;
+  k=0;
+  if(valorx > 999) 
+    valorx = 999;
+  if(valory > 999) 
+    valory = 999;
+  if(valorz > 999) 
+    valorz = 999;
+  if(valorw > 999) 
+    valorw = 999;
+  sprintf(trama,"%03d%03d%03d%03d",valorx,valory,valorz,valorw);
+  
+  for(int t=0;t<13;t++)
+  Serial.write(trama[t]);
+  Serial.print("\n");
+  valorx=0;
+  valory=0;
+  valorz=0;
+  valorw=0;
 //  Serial.print("Boton i: "); // con esto podremos ver en el serial puerto las palabras "Boton i:"
 //  Serial.print(digitalRead(i));
 //  Serial.print("\n"); // Espacio a otro renglon
