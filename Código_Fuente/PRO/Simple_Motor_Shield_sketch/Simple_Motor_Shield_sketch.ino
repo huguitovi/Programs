@@ -94,6 +94,9 @@
 //
 
 
+// Virtual on  https://www.tinkercad.com/things/jDHqqpM19So  by Victor Astorga
+
+
 #include <Servo.h>
 
 
@@ -189,6 +192,63 @@ void loop()
   motor(1, BACKWARD, 128);
   delay(2000);
   motor(1, RELEASE, 0);
+  
+  
+  
+  motor_output(MOTOR4_A, HIGH, 255);
+  delay(2000);
+  motor_output(MOTOR4_A, LOW, 255);
+
+
+  // Suppose a DC motor is connected to M1_A(+) and M1_B(-)
+  // Let it run full speed forward and half speed backward.
+  // If 'BRAKE' or 'RELEASE' is used, the 'speed' parameter
+  // is ignored.
+  motor(2, FORWARD, 255);
+  delay(2000);
+  // Be friendly to the motor: stop it before reverse.
+  motor(2, RELEASE, 0);
+  delay(500);
+  motor(2, BACKWARD, 128);
+  delay(2000);
+  motor(2, RELEASE, 0);
+  
+  
+    motor_output(MOTOR1_A, HIGH, 255);
+  delay(2000);
+  motor_output(MOTOR1_A, LOW, 255);
+
+
+  // Suppose a DC motor is connected to M1_A(+) and M1_B(-)
+  // Let it run full speed forward and half speed backward.
+  // If 'BRAKE' or 'RELEASE' is used, the 'speed' parameter
+  // is ignored.
+  motor(3, FORWARD, 255);
+  delay(2000);
+  // Be friendly to the motor: stop it before reverse.
+  motor(3, RELEASE, 0);
+  delay(500);
+  motor(3, BACKWARD, 128);
+  delay(2000);
+  motor(3, RELEASE, 0);
+  
+  motor_output(MOTOR2_A, HIGH, 255);
+  delay(2000);
+  motor_output(MOTOR2_A, LOW, 255);
+  // Suppose a DC motor is connected to M1_A(+) and M1_B(-)
+  // Let it run full speed forward and half speed backward.
+  // If 'BRAKE' or 'RELEASE' is used, the 'speed' parameter
+  // is ignored.
+  motor(4, FORWARD, 255);
+  delay(2000);
+  // Be friendly to the motor: stop it before reverse.
+  motor(4, RELEASE, 0);
+  delay(500);
+  motor(4, BACKWARD, 128);
+  delay(2000);
+  motor(4, RELEASE, 0);
+  
+
 }
 
 
