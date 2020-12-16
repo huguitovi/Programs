@@ -101,7 +101,6 @@ Modelado: [OnShape](https://cad.onshape.com/documents/c004816032ad218b156599f2/w
 
 ![image info](./RF433_TX.png)
 
-
 #### Receptor
 Modelado: [OnShape](https://cad.onshape.com/documents/db5adeeefbcc91026425b5d4/w/9b04f95ce5a829f2a64d8bc5/e/4a731cc7295ea3d0d6fe656e)
 
@@ -110,12 +109,16 @@ Modelado: [OnShape](https://cad.onshape.com/documents/db5adeeefbcc91026425b5d4/w
 ## Vistas explotadas de Comando y Carga útil
 
 #### Comando
+![image info](.Comando_final.png)
 ![image info](./Comando.png)
 
 #### Carga útil
 ![image info](./Carga_útil.png)
 
-
+###### PCB de interconexion en Carga útil
+![image info](./PCB_inter.png)
+![image info](./PCB_interReal.png)
+![image info](./PCB_inter2.png)
 
 <!---just---#
 
