@@ -94,6 +94,19 @@ Modelado: [OnShape](https://cad.onshape.com/documents/0726fa1b1b917e7525642e5a/w
 
 ![image info](./Stick_Onshape.png)
 
+## RF433 Receptro y transmisor
+
+#### Emisor
+Modelado: [OnShape](https://cad.onshape.com/documents/c004816032ad218b156599f2/w/bebf56a0e8003108964e5747/e/70b6ae09fcd66aa26aaf5e35)
+
+![image info](./RF433_TX.png)
+
+
+#### Receptor
+Modelado: [OnShape](https://cad.onshape.com/documents/db5adeeefbcc91026425b5d4/w/9b04f95ce5a829f2a64d8bc5/e/4a731cc7295ea3d0d6fe656e)
+
+![image info](./RF433_RX.png)
+
 ## Vistas explotadas de Comando y Carga útil
 
 #### Comando
@@ -101,11 +114,11 @@ Modelado: [OnShape](https://cad.onshape.com/documents/0726fa1b1b917e7525642e5a/w
 
 #### Carga útil
 ![image info](./Carga_útil.png)
+
+
+
 <!---just---#
 
-
-![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)
 ![image info](./SRF04_OnShape.png)
 ![image info](./MPU9250_OnShape.png)
 ![image info](./JSN-SR04T_OnShape.png)>
