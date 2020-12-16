@@ -109,7 +109,7 @@ Modelado: [OnShape](https://cad.onshape.com/documents/db5adeeefbcc91026425b5d4/w
 ## Vistas explotadas de Comando y Carga útil
 
 #### Comando
-![image info](.Comando_final.png)
+![image info](./Comando_final.png)
 ![image info](./Comando.png)
 
 #### Carga útil
