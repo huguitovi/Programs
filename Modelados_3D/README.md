@@ -93,6 +93,14 @@ Fabricante: [KY-023](https://arduinomodules.info/ky-023-joystick-dual-axis-modul
 Modelado: [OnShape](https://cad.onshape.com/documents/0726fa1b1b917e7525642e5a/w/507874bc5735f5b12601344c/e/7aaea927ce7cc22c705d6ab0)
 
 ![image info](./Stick_Onshape.png)
+
+## Vistas explotadas de Comando y Carga útil
+
+#### Comando
+![image info](./Comando.png)
+
+#### Carga útil
+![image info](./Carga_útil.png)
 <!---just---#
 
 
