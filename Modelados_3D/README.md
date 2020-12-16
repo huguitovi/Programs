@@ -64,21 +64,38 @@ Fabricante: [I-O Data]()
 Modelado: [OnShape](https://cad.onshape.com/documents/2a58d5fc7cfdaa5131b7bced/w/1790b3b75a4a6e0e9be4c743/e/e5ab12a85833402ce6b296c1)
 
 ![image info](./IOData_Onshape.png)
+
+## Arduino nano
+
+Fabricante: [Arduino CC](https://www.arduino.cc/)
+Modelado: [OnShape](https://cad.onshape.com/documents/e08e87ede2b085dabb8ec284/w/2d2faaebe3f86c9a17560737/e/5b4681878ee84e214a5b4865)
+
+
+![image info](./Arduino_Nano_Onshape.png)
+
+## Shield Motores Arduino
+
+Fabricante: [Adafruit/LadyAda](https://www.adafruit.com/product/81)
+Modelado: [OnShape](https://cad.onshape.com/documents/8d47852de01c4f7387d6f724/w/a000db7d16f8f21633216dc9/e/aa8d04f9ba54ca66b5974670)
+
+![image info](./Shield_Motores_Onshape.png)
+
+## Motor con reductor y helice (Gear Box 820 Coreless Cw Motor + Propeller Combo Set)
+
+Fabricante: [Gear Box 820 Coreless Cw Motor + Propeller Combo Set](https://www.adafruit.com/product/81)
+Modelado: [OnShape](https://cad.onshape.com/documents/0da1457debc2a4a932a4e4b8/w/93f8d65b40d40a5ed462e47c/e/6945122e04e86da24dd1f20e)
+
+![image info](./motor_con_reductor_onshape.png)
+
+## Palanca de comando (KY-023 Dual Axis Joystick Module)
+
+Fabricante: [KY-023](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)
+Modelado: [OnShape](https://cad.onshape.com/documents/0726fa1b1b917e7525642e5a/w/507874bc5735f5b12601344c/e/7aaea927ce7cc22c705d6ab0)
+
+![image info](./Stick_Onshape.jpg)
 <!---just---#
-## EESAM34R
-
-Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
-Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
-
-## EESAM34R
-
-Fabricante: [Elemon](https://www.elemon.com.ar/Cotizar.aspx)
-Modelado: [OnShape](https://cad.onshape.com/documents/ec4b6312847b79863e13bf8e/w/0436242ac0876fc591eb0102/e/217696dc8bc2e912b344ecc6)
 
 
-![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)
-![image info](./EESAMR34_OSh.jpg)
 ![image info](./EESAMR34_OSh.jpg)
 ![image info](./EESAMR34_OSh.jpg)
 ![image info](./SRF04_OnShape.png)
