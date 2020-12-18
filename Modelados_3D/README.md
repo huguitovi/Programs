@@ -30,7 +30,7 @@ Modelado: [OnShape](https://cad.onshape.com/documents/81b609bb43d320c6a6baf298/w
 
 ![image info](./imgs/Shielduino-T_Onshape.png)
 
-## Logitech C200
+## Logitech C200 WebCam desarmada
 
 Fabricante: [Logitech](https://support.logi.com/hc/en-us/articles/360023307014-Logitech-Webcam-C200-Technical-Specifications)
 Modelado: [OnShape](https://cad.onshape.com/documents/c44ed40a48549f56abfa6e95/w/bb11458fc9d157a45261392b/e/d3aeba1b3881ed7b99e6e940)
