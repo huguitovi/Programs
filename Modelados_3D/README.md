@@ -39,14 +39,13 @@ Modelado: [OnShape](https://cad.onshape.com/documents/c44ed40a48549f56abfa6e95/w
 
 ## SRF04
 
-Fabricante: [China]()
-Modelado: [OnShape]()
+Modelado: [OnShape](https://cad.onshape.com/documents/197cf291449f2230b7baf36f/w/e24e00b610793ed7f297869d/e/b949f0ee36fcf4b4ce4800be)
 
 ![image info](./imgs/SRF04_OnShape.png)
 
 ## MPU9250 BMP260
 
-Fabricante: [Bosch]()
+Fabricante: [Bosch](https://www.bosch.com/)
 Modelado: [OnShape](https://cad.onshape.com/documents/137634499555791615642d57/w/9201c79dbb14d58388e90772/e/1ceaf7b055e3bd4cd616bf7e)
 
 ![image info](./imgs/MPU9250_OnShape.png)
