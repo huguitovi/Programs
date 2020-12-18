@@ -23,10 +23,10 @@ Modelado: [OnShape](https://cad.onshape.com/documents/461af691bdc8e8293b6acc81/w
 
 ![image info](./imgs/Antena_OnShape.png)
 
-## ShielDuino-T (Modulo controlador de 8 motores nativo de Tolina)
+## PCB dedicado (Modulo controlador de 8 motores nativo de Tolina)
 
 Fabricante: [Tolina](https://github.com/huguitovi/Tolina)
-Modelado: [OnShape](https://cad.onshape.com/documents/e3b788214f8b06f891d40f1e/w/c74bf7b978118f32a32821e2/e/986af21a91f393d954ba1fb5)
+Modelado: [OnShape](https://cad.onshape.com/documents/81b609bb43d320c6a6baf298/w/e704fe0701eedfa0513e0479/e/23b6f936ed0f58f585dd623b)
 
 ![image info](./imgs/Shielduino-T_Onshape.png)
 
