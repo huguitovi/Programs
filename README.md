@@ -22,7 +22,3 @@ Para utilizar estos códigos es necesario tener un PCDuino4 nano, el kit de desa
 
 ## Dedicación y duración
 Este proyecto dura un cuatrimestre y es de dedicación completa por parte del equipo de estudiantes que en este tiempo deben tener listo y operativo el dirigible.
-
-## Docentes
-El curso lo dictan profesores de la ECyT-UNSAM: [Erwin Beccari](https://testabrava.myportfolio.com/) es Diseñador Industrial y bash: y: orden no encontrada
-el Estudiante avanzado; [Tomas Burroni](https://ar.linkedin.com/in/burroni-ti) de Ing. Espacial.
